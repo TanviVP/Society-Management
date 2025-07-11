@@ -15,9 +15,9 @@ Technologies Used:
 
 HTML5, CSS3
 
-(Optional) JavaScript for basic interactivity
+JavaScript for basic interactivity
 
-(Optional) Bootstrap for responsive design
+Bootstrap for responsive design
 
 Objective:
 To create a frontend layout for a society management portal with basic informational pages that can later be expanded into a dynamic, fully functional web application.
